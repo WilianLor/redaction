@@ -36,7 +36,7 @@ const CausePage = () => {
     "Despreocupação da família sobre o problema abordado",
     "Preconceito históricamente arraigado",
     "Pouca divulgação por parte da mídia",
-    "Lenta mudança na mentalidade dos cidadões",
+    "Lenta mudança na mentalidade dos cidadãos",
   ]);
   const [actualCause, setActualCause] = useState<string>("");
   const [correctCauses, setCorrectCauses] = useState<string[]>([]);
